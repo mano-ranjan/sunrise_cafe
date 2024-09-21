@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://cdn.pixabay.com/photo/2017/08/30/01/22/pizza-2682793_960_720.jpg",
+    "name": "Margherita Pizza",
+    "price": 299
+  },
+  {
+    "id": 2,
+    "image_url": "https://cdn.pixabay.com/photo/2017/07/22/10/08/burger-2528483_960_720.jpg",
+    "name": "Cheeseburger",
+    "price": 199
+  },
+  {
+    "id": 3,
+    "image_url": "https://cdn.pixabay.com/photo/2017/08/30/01/22/sushi-2682792_960_720.jpg",
+    "name": "Sushi Roll",
+    "price": 399
+  },
+  {
+    "id": 4,
+    "image_url": "https://cdn.pixabay.com/photo/2017/07/12/20/19/spaghetti-2497644_960_720.jpg",
+    "name": "Pasta Alfredo",
+    "price": 249
+  },
+  {
+    "id": 5,
+    "image_url": "https://cdn.pixabay.com/photo/2018/02/28/00/51/tacos-3185826_960_720.jpg",
+    "name": "Chicken Tacos",
+    "price": 149
+  }
+]
